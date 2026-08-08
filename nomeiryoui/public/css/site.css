@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    gap: 16px;
+    flex-wrap:wrap;
+}
+
+.container > div {
+    flex-basis: auto;
+}
